@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spruce Mobile</string>
+    <string name="txtTitle">Spruce Mobile</string>
+    <string name="txtLines">Enter the Number of Phone Lines</string>
+    <string name="cb1">Unlimited Worldwide Calling</string>
+    <string name="cb2">Unlimited Worldwide Calling and Text</string>
+    <string name="cb3">Unlimted Worldwide Calling, Text, and Data </string>
+    <string name="txtPlans">Choose a package for a discount:</string>
+    <string name="btnGetRate">Get Rate</string>
+    <string name="imgBottom">Can You Hear Me Now Guy</string>
+</resources>
